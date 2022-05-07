@@ -19,7 +19,8 @@
     "svd_path": "rp2040.svd"
   },
   "frameworks": [
-    "arduino"
+    "arduino",
+    "arduino-pico"
   ],
   "name": "Raspberry Pi Pico",
   "upload": {
